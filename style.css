@@ -1,0 +1,240 @@
+<link href="https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Neonderthaw&family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet">
+
+
+.container{
+border: 0px
+}
+.row{
+    border: 2px solid red
+}
+.nav{
+    padding: right 40px;
+    
+}
+.nav :hover{
+    color: orangered;
+    text-decoration: underline;
+}
+.nav a{ 
+   color: black;
+   background-color: rgb(236, 231, 231);
+   font-size: small;
+   
+}
+.search{
+    padding-left: 20px;
+    width: 700px;
+    height: 45px;
+    margin: 15px;
+    background-color: rgb(236, 231, 231) ;
+    background-image: url(logo3.jpg);
+    background-repeat: no-repeat;
+  background-position: right;
+  background-size: auto;
+border: 0px;
+}
+.lineinput{
+    width: 100%;
+}
+.menu ul{
+    list-style: none;
+    color:rgb(110, 106, 106) ;
+    line-height: 30px;
+}
+.section{
+    display: flex;
+}
+.pic2{
+    margin-top:15px ;
+}
+.btn {
+    border-radius: 100px;
+    background-color: rgb(66, 4, 66);
+    width: 150px;
+    border: rgb(66, 4, 66); 
+    margin: 20px;
+}
+.sec2{
+  padding: 10px;
+  padding-left: 55px;
+  background-color: rgb(228, 224, 224);
+display: flex;
+}
+.i1 h5{
+ background-image: url(icon1.PNG); 
+ background-repeat: no-repeat;
+ background-position: left;
+ background-size: contain; 
+width: 350px;
+margin: 10px;
+height: 40px;
+border-radius: 100px;
+border: 20px;
+background-color: white;
+
+
+
+}
+
+.i2 h5{
+    background-image: url(icon2.PNG); 
+    background-repeat: no-repeat;
+    background-position: left; 
+    background-size: contain; 
+    width: 350px;
+    margin: 10px;
+    height: 40px;
+    border-radius: 100px;
+    border: 20px;
+    background-color: white;
+    
+
+}
+.i3 h5{
+    background-image: url(icon3.PNG); 
+    background-repeat: no-repeat;
+    background-position: left; 
+    background-size: contain; 
+    width: 350px;
+    margin: 10px;
+    height: 40px;
+    border-radius: 100px;
+    border: 20px;
+    background-color: white;
+    
+
+}
+.a{
+  padding-left: 40px;
+  padding-top: 7px;
+  font-size: large;
+}
+.i1 h5:hover{color: blue;
+  
+}
+.i2 h5:hover{color: rgb(1, 223, 75);
+
+}
+.i3 h5:hover{color: rgb(246, 157, 12);
+
+}
+.h4{
+    display:flex;
+    color:rgb(129, 125, 125) ;
+    background-color: rgb(228, 224, 224);
+    padding-left: 65px;
+}
+.pics{
+display:flex ;
+
+}
+.h6{
+    color: orangered;
+    padding-top: 12px;
+    padding-left: 90px;
+}
+.h61{
+    color: black;
+    padding-top: 12px;
+    padding-left: 60px;
+}
+.icon5{
+    padding-left: 5px;
+    margin: 4px;
+}
+.btn2{
+    margin-left: 550px;
+    margin-top: 10px;
+    background-color: white;
+    border-color: orangered;
+    color: orangered;
+    width: 120px;
+    height: 40px;
+    cursor: pointer;
+}
+.btn2:hover{
+    background-color: orangered;
+    color: white;
+    
+}
+.btn3{
+    display: block;
+    margin: 10px;
+    width: 400px;
+    height: 40px;
+    border-color: orangered;
+    color: orangered;
+}
+.footer{
+
+    display: flex;
+    background-color: rgb(46, 49, 83);
+color: white;
+
+}
+.ul1{
+    margin: 10px;
+    padding: 10px;
+}
+.ul1 li{
+    list-style: none;
+   
+}
+.ul2{
+    margin: 10px;
+    padding: 10px;
+}
+.ul2 li{
+    list-style: none;
+}
+.barcode{
+ 
+    width: 80px;
+    margin-top: 100px;
+    margin-left: 120px;
+
+}
+.endpic{
+    display: flex;
+    margin: 15px;
+    padding: 15PX;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    
+   
+}
+.endp1{
+
+padding-right: 20px; 
+padding-left: 15px;
+}
+.endp2{
+    
+    padding-right: 20px; 
+    padding-left: 15px; 
+}
+.endp3{
+    padding-right: 20px; 
+    padding-left: 15px;
+}
+.endp4{
+    padding-right: 20px;
+    padding-left: 15px;
+}
+.endpara{
+    display: flex;  
+     color: rgb(129, 133, 133);
+    background-color: rgb(245, 243, 243);
+    padding: 15px;
+}
+.ph1{
+margin: 15px;
+}
+.ph2{
+    margin: 15px;
+}
+.ph3{
+    margin: 15px;
+}
+.ph4{
+    margin:15px;
+}
